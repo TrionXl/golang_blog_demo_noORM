@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"go_blog/service"
+	"golang_blog_demo_noORM/service"
 )
 
 const servingAddress = ":1323"

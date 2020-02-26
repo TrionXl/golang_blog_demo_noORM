@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/labstack/echo"
 	
-	"go_blog/module"
+	"golang_blog_demo_noORM/module"
 	"net/http"
 	"strconv"
 )
