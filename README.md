@@ -1,0 +1,1 @@
+# golang_blog_demo_noORM
